@@ -7,8 +7,7 @@ Lo que a continuación se presenta es el MVP
 
 ## Descubrimiento e Investigación
 
-### User Research
-#### Encuestas y entrevistas
+### Encuestas y entrevistas
 
 Comenzamos haciendo encuestas online para averiguar los comportamientos de compra de los usuarios.
 
@@ -36,7 +35,7 @@ En esta investigación pudimos también identificar a otro público, mucho más 
 Entrevistamos a Johanna Olavarría, veterinaria y Directora de la Fundación VYRA. Nos comentó que si bien mucha gente compra en la misma clínica (si es que ésta tiene los medicamentos), hay otro público importante, de menos presupuesto, que prefiere comprar en otro lugar y primero estudiar detenidamente los precios. El motivo de esto, sin considerar un presupuesto limitado, ocurre también cuando son muchos remedios los que se recetan, y al ser una lista larga, la gente prefiere averiguar bien antes, ya que la diferencia de precio puede ser bastante alta. Ocurre también en casos donde el veterinario va a domicilio, aquí usualmente las atenciones no son de urgencia, por lo tanto no requieren de su medicina de forma inmediata y los dueños optan también por cotizar. 
 
 
-#### Análisis de mercado
+### Análisis de mercado
 
 Investigamos en internet si es que existen plataforma de venta de medicamentos, con catálogo, descripción y precios, y descubrimos dos casos de venta web, pero ambos tienen falencias.
 
@@ -57,7 +56,7 @@ Existen otras webs de famacias veterinarias, o de clínicas veterinarias que tie
 ![agromaipo](img-readme/mercado-agromaipo.jpg)
 
 
-#### Definición del problema
+### Definición del problema
 
 En conclusión, los usuarios consultados presentan los siguientes problemas:
 
@@ -68,18 +67,21 @@ Definimos que la solución sería una web responsive con el valor agregado de qu
 
 Por otro lado, el desafío planteaba la existencia de dos usuarios del sitio: el que compra y el administrador del catálogo. Con respecto a este último, su interacción debe ser tener un acceso privado (login) a varios formularios donde pueda agregar, editar, eliminar o actualizar productos. Por ello definimos que la interfaz del administrador debe contar con una usabilidad adecuada, pocos pasos para realizar las tareas, y en un lenguaje cercano, con herramientas de uso común para que pueda deducir fácilmente cómo editar el catálogo.
 
-#### User personas
+### User personas
 
 Con todas estas situaciones que pudimos identificar, nos quedamos con 2 user personas:
 
-![provet](img-readme/User-Persona-Ivonne.png)
+![Ivonne](img-readme/User-Persona-Ivonne.png)
 
 Los "puntos de dolor" de Ivonne son que tiene un perro enfermo que depende de medicamentos diariamente. Su presupuesto es acotado y debe buscar lo más económico. Además las pastillas a veces no están en stock y debe pasearse de lugar en lugar buscándolas, a veces contra el tiempo ya que su perro no puede estar sin el tratamiento.
 
-![provet](img-readme/User-Persona-Jorge.png)
+![Jorge](img-readme/User-Persona-Jorge.png)
 
 Jorge tiene otro problema diferente al de Ivonne: tiene 8 perros, y si uno se enferma, se contagian todos o casi todos, por lo que un tratamiento se multiplica y encarece los gastos. Además en la zona donde vive no tiene donde comprar. Hay petshops contados con los dedos de una mano, tienen poca variedad y la que hay es excesivamente cara por ser los únicos que venden. 
 
+![Gabriela](img-readme/gabriela.png)
+
+Gabriela tenía el problema de tener una mascota enferma crónica y debía ir presencialmente a muchas farmacias para conseguir el medicamento, no tenía seguridad si el medicamento estaría o no, incluso llamaba por teléfono para averiguar sobre el stock. Ella indicaba que sería ideal tener un lugar donde despacharan directamente al domicilio para ahorrar tiempo y dinero en conseguirlo.
 
 ### Storytelling
 ![storytelling](img-readme/storytelling.jpg)
