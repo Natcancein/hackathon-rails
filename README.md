@@ -69,7 +69,7 @@ Por otro lado, el desafío planteaba la existencia de dos usuarios del sitio: el
 
 ### User personas
 
-Con todas estas situaciones que pudimos identificar, nos quedamos con 2 user personas:
+Con todas estas situaciones que pudimos identificar, nos quedamos con 3 user personas:
 
 ![Ivonne](img-readme/User-Persona-Ivonne.png)
 
