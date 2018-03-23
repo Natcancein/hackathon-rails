@@ -72,11 +72,11 @@ Por otro lado, el desafío planteaba la existencia de dos usuarios del sitio: el
 
 Con todas estas situaciones que pudimos identificar, nos quedamos con 2 user personas:
 
-![provet](img-readme/user-persona-ivonne.png)
+![provet](img-readme/User-Persona-Ivonne.png)
 
 Los "puntos de dolor" de Ivonne son que tiene un perro enfermo que depende de medicamentos diariamente. Su presupuesto es acotado y debe buscar lo más económico. Además las pastillas a veces no están en stock y debe pasearse de lugar en lugar buscándolas, a veces contra el tiempo ya que su perro no puede estar sin el tratamiento.
 
-![provet](img-readme/user-persona-jorge.png)
+![provet](img-readme/User-Persona-Jorge.png)
 
 Jorge tiene otro problema diferente al de Ivonne: tiene 8 perros, y si uno se enferma, se contagian todos o casi todos, por lo que un tratamiento se multiplica y encarece los gastos. Además en la zona donde vive no tiene donde comprar. Hay petshops contados con los dedos de una mano, tienen poca variedad y la que hay es excesivamente cara por ser los únicos que venden. 
 
