@@ -81,18 +81,23 @@ Los "puntos de dolor" de Ivonne son que tiene un perro enfermo que depende de me
 Jorge tiene otro problema diferente al de Ivonne: tiene 8 perros, y si uno se enferma, se contagian todos o casi todos, por lo que un tratamiento se multiplica y encarece los gastos. Además en la zona donde vive no tiene donde comprar. Hay petshops contados con los dedos de una mano, tienen poca variedad y la que hay es excesivamente cara por ser los únicos que venden. 
 
 
+### Storytelling
+![storytelling](img-readme/storytelling.jpg)
+Realizamos un storytelling para contar la historia de un usuario, tomando como referencia una de las personas que entrevistamos, para poder entender de manera didáctica como es la solución que le presentamos a la persona.
+
+
 ### Wireframes
 
-![pichichus](img-readme/wireframes.jpg)
+![wireframes](img-readme/wireframes.jpg)
 
 Realizamos dos flujos de navegación con wireframes, uno del cliente que compra, y otro del administrador de la página.
 Nos preocupamos de diseñar una interfaz sencilla, intuitiva, y testeamos con usuarios. Los comentarios fueron positivos, usamos un lenguaje de herramientas universal, para que quienes hagan uso del sitio no se cuestionen las acciones.
 
-![pichichus](img-readme/testeo-1.jpg)
+![testeo](img-readme/testeo-1.jpg)
 
-![pichichus](img-readme/testeo-2.jpg)
+![testeo](img-readme/testeo-2.jpg)
 
-![pichichus](img-readme/testeo-3.jpg)
+![testeo](img-readme/testeo-3.jpg)
 
 
 Y desde el proceso de wireframes transmitimos directamente esta información al equipo de front-end, para que pudieran empezar a codear la maqueta del sitio. Desde el principio las propuestas fueron bien aceptadas y constantemente había feedback de un lado a otro sobre la usabilidad.
